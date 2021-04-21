@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://wallpapercave.com/wp/wp7891867.jpg">
 </p>
 
-# Saitama Robot
+# Yuji Itadori
 
 <p align="center">
-- x -|│  “	Just some code who is a bot for fun! ”  │| - x -
+- x -|│  “	Just some code who is afraid of dying but kills them curses for fu! ”  │| - x -
 </p>
 
 <p align="center">
